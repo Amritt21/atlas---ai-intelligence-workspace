@@ -1,0 +1,6 @@
+{
+  "name": "ATLAS - AI Intelligence Workspace",
+  "description": "An interactive research workspace that transforms complex questions into visual knowledge maps, structured intelligence, entity networks, and analytical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
